@@ -77,7 +77,8 @@ $(window).on('load', function() {
     	} else{
     		$("#snh-1").html("<span> "+ (1 > b ? b + a : b > a ? b - a : b) + " / </span>" + a);
     	}
-    });
+	});-+-+
+	
 
 
 
