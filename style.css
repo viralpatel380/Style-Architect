@@ -1747,7 +1747,7 @@ ol {
 
 .portfolio-warp .grid-item a:after {
 	position: absolute;
-	content: "+";
+
 	left: 50%;
 	top: 60%;
 	width: 48px;
